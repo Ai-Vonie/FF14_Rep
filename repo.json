@@ -1,11 +1,11 @@
 [
     {
         "Author": "HappySprite",
-        "Name": "Workshop Optimizer Plugin - fork",
-        "Description": "Use /wso after you visited your island.",
-        "InternalName": "WorkshopOptimizerPlugin",
-        "AssemblyVersion": "0.3.0.0",
-        "TestingAssemblyVersion": "0.3.0.0",
+        "Name": "Workshop Optimizer Plugin Fork",
+        "Description": "Use /wso after you visited your island. Fork with additional features.",
+        "InternalName": "WorkshopOptimizerPluginFork",
+        "AssemblyVersion": "1.0.0.0",
+        "TestingAssemblyVersion": "1.0.0.0",
         "RepoUrl": "https://github.com/Ai-Vonie/WorkshopOptimizerPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 11,
