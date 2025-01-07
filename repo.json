@@ -2,26 +2,33 @@
     {
         "Author": "HappySprite",
         "Name": "Workshop Optimizer Plugin Fork",
-        "Description": "Use /wso after you visited your island. Fork with additional features.",
         "InternalName": "WorkshopOptimizerPluginFork",
         "AssemblyVersion": "1.0.0.0",
-        "TestingAssemblyVersion": "1.0.0.0",
-        "RepoUrl": "https://github.com/Ai-Vonie/WorkshopOptimizerPluginFork",
+        "Description": "Use /wso after you visited your island. Fork with additional features.",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 11,
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdate": 1736197200,
-        "DownloadLinkInstall": "https://github.com/Ai-Vonie/WorkshopOptimizerPluginFork/releases/latest/download/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Ai-Vonie/WorkshopOptimizerPluginFork/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Ai-Vonie/WorkshopOptimizerPluginFork/releases/latest/download/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Ai-Vonie/WorkshopOptimizerPluginFork/main/Images/icon.png",
+        "RepoUrl": "https://github.com/Ai-Vonie/WorkshopOptimizerPlugin",
         "Tags": [
-            "island",
-            "workshop",
-            "optimizer",
-            "fork"
-        ]
+          "island",
+          "workshop",
+          "optimizer",
+          "fork"
+        ],
+        "DalamudApiLevel": 11,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "ImageUrls": [
+          "https://raw.githubusercontent.com/Ai-Vonie/WorkshopOptimizerPlugin/main/Images/image1.png",
+          "https://raw.githubusercontent.com/Ai-Vonie/WorkshopOptimizerPlugin/main/Images/image2.png",
+          "https://raw.githubusercontent.com/Ai-Vonie/WorkshopOptimizerPlugin/main/Images/image3.png",
+          "https://raw.githubusercontent.com/Ai-Vonie/WorkshopOptimizerPlugin/main/Images/image4.png"
+        ],
+        "IsHide": false,
+        "DownloadLinkInstall": "https://github.com/Ai-Vonie/WorkshopOptimizerPluginFork/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Ai-Vonie/WorkshopOptimizerPluginFork/releases/latest/download/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Ai-Vonie/WorkshopOptimizerPlugin/main/Images/icon.png",
+        "Punchline": "Optimize Island Sanctuary Workshop orders.",
+        "AcceptsFeedback": true
     }
 ]
