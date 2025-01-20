@@ -9,6 +9,7 @@
         "RepoUrl": "https://github.com/Ai-Vonie/WorkshopOptimizerPlugin",
         "Tags": [
           "island",
+          "sanctuary",
           "workshop",
           "optimizer",
           "fork"
@@ -29,6 +30,39 @@
         "DownloadLinkUpdate": "https://github.com/Ai-Vonie/WorkshopOptimizerPluginFork/releases/latest/download/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/Ai-Vonie/WorkshopOptimizerPlugin/main/Images/icon.png",
         "Punchline": "Optimize Island Sanctuary Workshop orders.",
+        "AcceptsFeedback": true
+    },
+    {
+        "Author": "img",
+        "Name": "Island Workshop Search Fork",
+        "InternalName": "IslandWorkshopSearchFork",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "Highlights island workshop agenda items and tabs based on search input. Press Ctrl+Enter to use search functions. Fork with additional features.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Ai-Vonie/IslandWorkshopSearchFork",
+        "Tags": [
+          "island",
+          "sanctuary",
+          "workshop",
+          "search",
+          "fork"
+        ],
+        "DalamudApiLevel": 11,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "ImageUrls": [
+          "https://raw.githubusercontent.com/Ai-Vonie/IslandWorkshopSearchFork/master/Images/image1.png",
+          "https://raw.githubusercontent.com/Ai-Vonie/IslandWorkshopSearchFork/master/Images/image2.png",
+          "https://raw.githubusercontent.com/Ai-Vonie/IslandWorkshopSearchFork/master/Images/image3.png",
+          "https://raw.githubusercontent.com/Ai-Vonie/IslandWorkshopSearchFork/master/Images/image4.png"
+        ],
+        "IsHide": false,
+        "DownloadLinkInstall": "https://github.com/Ai-Vonie/IslandWorkshopSearchFork/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Ai-Vonie/IslandWorkshopSearchFork/releases/latest/download/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Ai-Vonie/IslandWorkshopSearchFork/master/Images/icon.png",
+        "Punchline": "Search and highlight items in Island Sanctuary Workshop.",
         "AcceptsFeedback": true
     }
 ]
