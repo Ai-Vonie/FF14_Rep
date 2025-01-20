@@ -3,7 +3,7 @@
         "Author": "HappySprite",
         "Name": "Workshop Optimizer Plugin Fork",
         "InternalName": "WorkshopOptimizerPluginFork",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.1.0",
         "Description": "Use /wso after you visited your island. Fork with additional features.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Ai-Vonie/WorkshopOptimizerPlugin",
