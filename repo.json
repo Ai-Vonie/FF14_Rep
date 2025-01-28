@@ -64,5 +64,34 @@
         "IconUrl": "https://raw.githubusercontent.com/Ai-Vonie/IslandWorkshopSearchFork/master/Images/icon.png",
         "Punchline": "Search and highlight items in Island Sanctuary Workshop.",
         "AcceptsFeedback": true
-    }
+    },
+    {
+      "Author": "Aida Enna",
+      "Name": "Auto Login Fork",
+      "InternalName": "AutoLoginFork",
+      "AssemblyVersion": "1.0.0.0",
+      "Description": "Automatically logs you into a specified character when the game first opens. Also includes auto-login after disconnects, lobby errors, and connection timeouts. This is a fork of the original plugin AutoLogin by Aida Enna.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/Ai-Vonie/AutoLoginFork",
+      "Tags": [
+        "auto",
+        "login",
+        "reconnect",
+        "error",
+        "connection",
+        "lobby",
+        "fork"
+      ],
+      "DalamudApiLevel": 11,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 1,
+      "IsHide": false,
+      "DownloadLinkInstall": "https://github.com/Ai-Vonie/AutoLoginFork/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Ai-Vonie/AutoLoginFork/releases/latest/download/latest.zip",
+      "IconUrl": "https://raw.githubusercontent.com/Aida-Enna/XIVPlugins/main/Plogon/Resources/Icons/AutoLogin.png",
+      "Punchline": "Automatically logs you into a specified character when the game first opens. Also includes auto-login after disconnects, lobby errors, and connection timeouts.",
+      "AcceptsFeedback": true
+  }
 ]
