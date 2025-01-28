@@ -73,11 +73,7 @@
       "Description": "Automatically logs you into a specified character when the game first opens. Also includes auto-login after disconnects, lobby errors, and connection timeouts. This is a fork of the original plugin AutoLogin by Aida Enna.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/Ai-Vonie/AutoLoginFork",
-      "Changelog": [
-        "- Added Simple Login Mode option in plugin settings",
-        "- Added Start menu button support for Simple Login Mode",
-        "- Skip datacenter/world selection in Simple Login Mode"
-      ],
+      "Changelog": "- Added Simple Login Mode option in plugin settings\n- Added Start menu button support for Simple Login Mode\n- Skip datacenter/world selection in Simple Login Mode",
       "Tags": [
         "auto",
         "login",
